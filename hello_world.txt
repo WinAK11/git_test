@@ -1,1 +1,2 @@
 Hello world
+Now we can using git commit without the flag -m
